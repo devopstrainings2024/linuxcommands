@@ -1,0 +1,7 @@
+# Linux Commands
+ls
+pwd
+whoami
+mkdir
+cd 
+man
