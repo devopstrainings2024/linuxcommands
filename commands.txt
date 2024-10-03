@@ -1,7 +1,7 @@
 # Linux Commands
-ls
-pwd
-whoami
-mkdir
-cd 
-man
+ls - to list out all the content 
+pwd- print the working directory
+whoami - user
+mkdir - to make directories
+cd  - change directories
+man - manual page
