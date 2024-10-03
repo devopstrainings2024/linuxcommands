@@ -9,4 +9,4 @@ uname -  kernel
 df -h      - storage
 free -h           - ram
 users - users logged in
-touch
+touch - to create empty files
