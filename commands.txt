@@ -10,3 +10,6 @@ df -h      - storage
 free -h           - ram
 users - users logged in
 touch - to create empty files
+
+
+DevOps is fun
