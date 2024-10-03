@@ -5,3 +5,7 @@ whoami - user
 mkdir - to make directories
 cd  - change directories
 man - manual page
+uname
+df -h
+free -h
+users
