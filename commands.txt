@@ -10,6 +10,8 @@ df -h      - storage
 free -h           - ram
 users - users logged in
 touch - to create empty files
+ln - to create hardlinks
+ln -s     - to create hardlinks
 
 
 DevOps is fun
